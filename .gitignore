@@ -19,3 +19,5 @@ venv/
 ncaa-analytics/data_raw/
 ncaa-analytics/data_intermediate/
 ncaa-analytics/db/*.db
+*.db
+*.sqlite
